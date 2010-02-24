@@ -1,1 +1,1 @@
-hello
+puts 'bonjour'
